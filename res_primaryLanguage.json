@@ -1,0 +1,46 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Milad Tahanian. Fictional person for preview purposes :) I'm working with newest frameworks like React Native to develop mobile applications. What you are seeing now is portfolio template built by myself. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "experience": [
+      {
+        "company": "Freelancer",
+        "title": "React Native Developer",
+        "years": "07.2016 - present",
+        "mainTech": [
+          "React Native"
+        ],
+        "technologies": [
+          "ReactNative Framework",
+          "React",
+          "Typescript",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Windows",
+          "macOS"        
+        ]
+      },
+      {
+        "company": "English Language institutions",
+        "title": "Tutor / Supervisor",
+        "years": "01.2015 - present",
+        "mainTech": [
+          "IELTS 8.5",
+          "CAE",
+          "FCE",
+          "Diploma"
+        ],
+        "technologies": [
+          "English as Second Language"
+        ]
+      }
+    ]
+  }

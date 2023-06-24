@@ -1,0 +1,83 @@
+{
+    "basic_info": {
+      "name": "Milad Tahanian | میلاد طحانیان",
+      "titles": [ "React Native Developer", "English Language Instructor","برنامه نویس ری‌اکت نیتیو","مدرس زبان انگلیسی" ],
+      "social": [
+        {
+          "name": "telegram",
+          "url": "https://t.me/milad_tahanian",
+          "class": "fab fa-telegram"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/milad.tahanian.ir",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/mtahanian",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "twitter",
+          "url": "https://www.twitter.com/imiladtahanian",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "whatsapp",
+          "url": "https://wa.me/989128051137",
+          "class": "fab fa-whatsapp"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-plain",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "65"
+        },
+        {
+          "name": "iOS",
+          "class": "devicon-apple-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
